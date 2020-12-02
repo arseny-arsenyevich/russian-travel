@@ -1,0 +1,7 @@
+.link-disapear {
+  transition: opacity 2s ease;
+}
+
+.link-disapear:hover {
+  opacity: 0.8;
+}

@@ -1,0 +1,9 @@
+.place__paragraphs {
+    padding: 33px 16px 0;
+}
+
+@media screen and (min-width: 700px) {
+    .place__paragraphs {
+        padding: 0;
+    }
+}

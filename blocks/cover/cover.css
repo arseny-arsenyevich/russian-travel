@@ -1,0 +1,10 @@
+.cover {
+    min-width: 300px;
+    max-width: 2000x;
+}
+
+@media screen and (min-width: 1280px) {
+    .cover {
+        padding: 0 48px 0;
+    }
+}

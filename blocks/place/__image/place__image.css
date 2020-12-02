@@ -1,0 +1,12 @@
+.place__image {
+    position: relative;
+    width: 100%;
+    object-fit: contain;
+    margin: 32px 0 0;
+}
+
+@media screen and (min-width: 700px) {
+    .place__image {
+        margin: 0;
+    }
+}
