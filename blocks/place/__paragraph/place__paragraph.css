@@ -2,7 +2,8 @@
     margin: 0;
     padding: 0 1.1% 25px 0;
     font-size: 16px;
-    line-height: 162%;
+    line-height: 163%;
+    /* значение line-height было изменено, чтобы сайт точнее совпадал с макетом*/
 }
 
 .place__paragraph:last-of-type {

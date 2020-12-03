@@ -23,9 +23,8 @@
 
 @media screen and (min-width: 1280px) {
     .lead__image-back {
-        margin: 64px 0 0;
-        height: calc(0.625*(100vw - 2*148px));
-        max-width: 1600px;
-        max-height: 1000px;
+        margin: 64px auto 0;
+        width: 984px;
+        height: 615px;
     }
 }

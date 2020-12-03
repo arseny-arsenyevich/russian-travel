@@ -8,6 +8,9 @@
 @import url("../blocks/header/__logo/header__logo.css");
 @import url("../blocks/header/__menu/header__menu.css");
 @import url("../blocks/header/__lang-link/header__lang-link.css");
+@import url("../blocks/header/__lang-link/_underline/header__lang-link_underline.css");
+
+@import url("../blocks/main/__position-center/main__position-center.css");
 
 @import url("../blocks/lead/lead.css");
 @import url("../blocks/lead/__title/lead__title.css");
