@@ -1,9 +1,11 @@
-# [How to Learn](https://arseny-arsenyevich.github.io/russian-travel/)
+# [Russian Travel](https://arseny-arsenyevich.github.io/russian-travel/)
 
 ![Flutter](https://img.shields.io/badge/status-release-<COLOR>)
 
+![интро](./images/travel.gif)
+
 ## **Описание проекта**
-Лендинг на тему путешествий
+Лендинг на тему путешествий. Вёрстка по макету в Figma для освоения адаптивности. Использовал Flexbox и Grid. Проект проходил код-ревью.
 Посмотреть можно [здесь](https://arseny-arsenyevich.github.io/russian-travel/)
 
 ## **Стек**
